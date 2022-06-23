@@ -107,3 +107,45 @@ body {
 .last-section__inner__button-wrapper {
 	margin-top: 65px;
 }
+
+.table {
+	position: sticky;
+	margin-top: 165px;
+}
+
+.table ul li {
+	list-style-type: none;
+	margin-bottom: 50px;
+	border-bottom: 1 px solid black;
+}
+
+.table ul a {
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.visually-hidden {
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	border: 0;
+	padding: 0;
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	margin: -1px;
+}
+
+.coffe-label-box {
+	display: inline-block;
+	margin-right: 10px;
+	padding: 10px 20px;
+	border: 1px solid black;
+	transition: 0.3s ease;
+}
+
+.form-inner input[type='radio']:checked + .coffee-label-box {
+	background-color: black;
+	color: white;
+}
