@@ -1,0 +1,29 @@
+.main-header__inner {
+	display: flex;
+	align-items: center;
+}
+
+.main-header__inner-nav {
+	margin-left: auto;
+}
+
+.main-header__inner-nav ul {
+	margin-left: auto;
+	display: flex;
+	list-style-type: none;
+
+    li {
+        margin-left: auto;
+        margin: 30px;
+
+        a {
+            text-decoration: none;
+            color: #83888f;
+
+            &:hover {
+                border-bottom: 1px solid;
+            }
+        }
+    } 
+}
+
