@@ -1,0 +1,39 @@
+.hero-section__inner {
+    background-color: #A2A2A2;
+    border-radius: 10px;
+}
+
+.hero-section__inner-content {
+    padding-top: 117px;
+    padding-left: 85px;
+    padding-bottom: 117px;
+    color: #FEFCF7;
+}
+
+.hero-section__inner-conten__title {
+    width: 493px;
+    font-size: 72px;
+}
+
+.hero-section__inner-conten__desc {
+    max-width: 445px;
+    line-height: 26px;
+    font-size: 16px;
+    margin-top: -50px;
+    opacity: 0.8;
+}
+
+.hero-section__inner-content__button { 
+    background-color: #0E8784;
+    border: 1px solid #0E8784 ;
+    padding: 15px 30px;
+    max-width: 200px;
+    border-radius: 6px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.hero-section__inner-content__button__link { 
+    text-decoration: none;
+    color: #FEFCF7;
+}
