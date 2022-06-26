@@ -125,7 +125,7 @@ body {
 }
 
 .visually-hidden {
-	position: absolute;
+    position: absolute;
 	white-space: nowrap;
 	width: 1px;
 	height: 1px;
@@ -137,15 +137,4 @@ body {
 	margin: -1px;
 }
 
-.coffe-label-box {
-	display: inline-block;
-	margin-right: 10px;
-	padding: 10px 20px;
-	border: 1px solid black;
-	transition: 0.3s ease;
-}
 
-.form-inner input[type='radio']:checked + .coffee-label-box {
-	background-color: black;
-	color: white;
-}
