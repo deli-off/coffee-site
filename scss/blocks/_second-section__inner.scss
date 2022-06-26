@@ -1,0 +1,28 @@
+.second-section__inner-bg {
+    position: absolute;
+    margin-left: 85px;
+}
+
+.second-section__cards-wrapper {
+    position: relative;
+    display: flex;
+    gap: 30px;
+    top: 170px;
+
+}
+
+.second-section__cards-wrapper__card {
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.second-section__cards-wrapper__card__card-title {
+    color: #333D4B;
+}
+
+.second-section__cards-wrapper__card__card-desc {
+    color: #333D4B;
+    line-height: 26px;
+    max-width: 255px;
+}
