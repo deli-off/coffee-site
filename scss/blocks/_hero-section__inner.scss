@@ -1,0 +1,37 @@
+.hero-section__inner {
+    margin-top: 45px;
+    background-color: #A2A2A2;
+    border-radius: 10px;
+}
+
+.hero-section__inner__content {
+    padding-top: 80px;
+    padding-left: 85px;
+    padding-bottom: 115px;
+}
+
+.hero-section__inner__content__title {
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+    max-width: 493px;
+}
+
+.hero-section__inner__content__desc {
+    color: #FEFCF7;
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 455px;
+    opacity: 0.8;
+    margin-top: -40px;
+    padding-bottom: 50px;
+}
+
+.hero-section__inner__content__btn {
+    text-decoration: none;
+    border-radius: 8px;
+    color: #FEFCF7;
+    background-color: #0E8784;
+    padding: 15px 30px;
+}

@@ -1,0 +1,27 @@
+.logo {
+    margin: 0;
+}
+
+.main-header__inner {
+    display: flex;
+    align-items: center;
+}
+
+.main-header__inner__nav {
+    margin-left: auto;
+
+    ul {
+        display: flex;
+        list-style-type: none;
+        gap: 30px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #83888F;
+
+        &:hover {
+            border-bottom: 1px solid;
+        }
+    }
+}
