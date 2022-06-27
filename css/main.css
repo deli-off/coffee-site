@@ -73,4 +73,132 @@ body {
   color: #FEFCF7;
   background-color: #0E8784;
   padding: 15px 30px;
+}
+
+.second-section__inner__bg {
+  position: absolute;
+  margin-left: 80px;
+}
+
+.second-section__inner__cards-wrapper {
+  display: flex;
+  padding-top: 150px;
+  padding-left: 70px;
+  gap: 30px;
+}
+
+.second-section__inner__cards-wrapper__card {
+  text-align: center;
+  align-items: center;
+}
+
+.second-section__inner__cards-wrapper__card__title {
+  color: #333D4B;
+  font-size: 24px;
+}
+
+.second-section__inner__cards-wrapper__card__desc {
+  color: #333D4B;
+  max-width: 255px;
+  line-height: 26px;
+  font-size: 16px;
+}
+
+.why-choose-us__inner {
+  position: absolute;
+  background-color: #2C343E;
+  border-radius: 10px;
+  height: 577px;
+  width: 1280px;
+  margin-top: 100px;
+}
+
+.why-choose-us__inner__content-wrapper {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 315px;
+}
+
+.why-choose-us__inner__content-wrapper__title {
+  font-size: 40px;
+  color: #FEFCF7;
+}
+
+.why-choose-us__inner__content-wrapper__desc {
+  color: #FEFCF7;
+  font-size: 16px;
+  opacity: 0.8;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+.why-choose-us__inner__cards-wrapper {
+  position: relative;
+  display: flex;
+  gap: 25px;
+  bottom: 280px;
+  left: 80px;
+}
+
+.why-choose-us__inner__cards-wrapper__card__img {
+  padding-top: 30px;
+}
+
+.why-choose-us__inner__cards-wrapper__card {
+  background-color: #0E8784;
+  max-width: 350px;
+  text-align: center;
+  align-items: center;
+  border: 1px transparent;
+  text-align: center;
+  align-items: center;
+  padding-top: 30px;
+  padding: 50px;
+  border-radius: 6px;
+  padding-bottom: 30px;
+}
+
+.why-choose-us__inner__cards-wrapper__card__title {
+  font-size: 24px;
+  color: #FEFCF7;
+}
+
+.why-choose-us__inner__cards-wrapper__card__desc {
+  color: #FEFCF7;
+  font-size: 16px;
+  opacity: 0.6;
+  max-width: 255px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.how-it-work__inner {
+  margin-top: 850px;
+}
+
+.how-it-work__inner__title {
+  color: #83888F;
+  font-size: 24px;
+}
+
+.how-it-work__innner__lines-wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 90px;
+}
+
+.how-it-work__innner__lines-wrapper__oval {
+  display: block;
+  border: 1px solid #0E8784;
+  border-radius: 50%;
+  width: 31px;
+  height: 31px;
+}
+
+.how-it-work__innner__lines-wrapper__line {
+  display: block;
+  border: 1px solid #FDD6BA;
+  width: 370px;
+  height: 0;
 }/*# sourceMappingURL=main.css.map */

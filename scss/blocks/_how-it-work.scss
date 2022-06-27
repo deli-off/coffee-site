@@ -1,0 +1,29 @@
+.how-it-work__inner {
+    margin-top: 850px;
+}
+
+.how-it-work__inner__title {
+    color: #83888F;
+    font-size: 24px;
+}
+
+.how-it-work__innner__lines-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+}
+
+.how-it-work__innner__lines-wrapper__oval {
+    display: block;
+    border: 1px solid #0E8784;
+    border-radius: 50%;
+    width: 31px;
+    height: 31px;
+}
+
+.how-it-work__innner__lines-wrapper__line {
+    display: block;
+    border: 1px solid #FDD6BA;
+    width: 370px;
+    height: 0;
+}
