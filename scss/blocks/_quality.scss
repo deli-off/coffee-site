@@ -1,0 +1,30 @@
+.quality-section__inner {
+    transform: translateY(650px);
+    background-color: #2C343E;
+    border-radius: 10px;
+    display: flex;
+}
+
+.quality-section__inner__content {
+    transform: translate(80px,80px);
+
+    h2 {
+        font-size: 40px;
+        color: #FEFCF7;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 16px;
+        color: #FEFCF7;
+        opacity: 0.8;
+        line-height: 26px;
+        max-width: 540px;
+        opacity: 0.6;
+    }
+}
+
+.quality-section__inner__img {
+    transform: translate(170px, -70px);
+    border-radius: 8px;
+}

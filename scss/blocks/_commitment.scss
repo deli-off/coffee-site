@@ -1,0 +1,21 @@
+.commitment-section__inner {
+    transform: translateY(450px);
+    display: flex;
+}
+
+.commitment-section__inner__content {
+    transform: translate(125px,50px);
+
+    h2 {
+        font-size: 40px;
+        color: #333D4B;
+    }
+
+    p {
+        font-size: 16px;
+        color: #333D4B;
+        max-width: 540px;
+        line-height: 26px;
+        opacity: 0.8;
+    }
+}
