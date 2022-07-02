@@ -38,7 +38,7 @@
 }
 
 .enjoy__inner__cards-wrapper__card__title {
-    color: #FEFCF7;
+    color: $primary-color;
     font-size: 32px;
     max-width: 255px;
 }
@@ -47,12 +47,12 @@
     font-size: 16px;
     line-height: 26px;
     max-width: 285px;
-    color: #FEFCF7;
+    color: $primary-color;
 }
 
 .enjoy__inner__btn {
     text-decoration: none;
-    color: #FEFCF7;
+    color: $primary-color;
     background-color: #0E8784;
     padding: 15px 30px;
     border-radius: 8px;
